@@ -1,0 +1,14 @@
+Client File Info
+
+
+Files contained in Client Folder
+
+- Predictive Pricing Model - Group 12_Project -  This is the Final Report
+
+- InfoVis_Cleaning.ipynb - This file cleans all three files and combines the necessary information into one dataset for both ML models
+
+- Info_Vis_Final_RandomForest.ipynb - This file contains the RandomForest model implementation
+
+- InfoVis_MLModel_LogisticRegression.ipynb - This file contains the Logistic Regression model
+
+- SampleClientVisuals.pbix - This is the Power BI visualizations file.
